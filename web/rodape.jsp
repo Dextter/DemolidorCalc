@@ -6,7 +6,7 @@
 
 <div id="rodape">
                 <footer>
-                    JAH Developers 
+                    &copy;JAH Developers 
                     DemolidorCalc 2014
                 </footer>
             </div>
