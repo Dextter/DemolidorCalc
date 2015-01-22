@@ -7,7 +7,7 @@
 <div id="rodape">
                 <footer>
                     &copy;JAH Developers 
-                    DemolidorCalc 2014
+                    
                 </footer>
             </div>
         </div>
